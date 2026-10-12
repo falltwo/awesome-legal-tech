@@ -6,6 +6,18 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/).
 
 ## [Unreleased]
 
+## [2026-10-12]
+
+### Added
+- **AI Tools:** Prism Legal OS, Lawgent, Lex Machina (Polish law) (PL), Advocacia Aberta (BR), claude-for-legal-finland (FI)
+- **eDiscovery & Litigation Support:** Exculpata
+- **Legal Workflow Automation:** Accord Project Template Archive
+- **Privacy & Data Protection:** tarteaucitron.js (EU)
+- **MCP Servers & AI Agent Tools for Law:** opencaselaw (CH), justicelibre (FR), canlii-mcp (CA)
+
+### Changed
+- Marked as stale (archived/removed): `Ansvar-Systems/Greek-law-mcp`, `zgbrenner/pinpoint`, `zgbrenner/agentcounsel`, `zgbrenner/circuitus`
+
 ## [2026-10-05]
 
 ### Added
