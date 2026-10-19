@@ -143,6 +143,7 @@ Tools and models that use AI to assist with legal work, from contract analysis t
 | <img src="https://flagcdn.com/w20/pl.png" width="20" height="15" alt="PL"> **[Lex Machina (Polish law)](https://github.com/michaleiatrak-star/Lex-Machina)** | Toolkit for Polish legal analysis and drafting of procedural documents that verifies statutes and case law against official sources instead of citing from model memory. | Python | GPL-3.0 | 2026-10-12 |
 | <img src="https://flagcdn.com/w20/br.png" width="20" height="15" alt="BR"> **[Advocacia Aberta](https://github.com/emidio-trancoso/advocacia-aberta)** | Open, agent-executable legal method for Brazilian lawyers with curated STF and STJ case law, statutes, precedents, and local protocol engines. | Python | MIT | 2026-10-12 |
 | <img src="https://flagcdn.com/w20/fi.png" width="20" height="15" alt="FI"> **[claude-for-legal-finland](https://github.com/akunikkola/claude-for-legal-finland)** | Open-source Claude skills and plugins for Finnish legal work, connecting to Finlex and Finnish case law sources for lawyers. | JavaScript | MIT | 2026-10-12 |
+| **[AI WorkDeck](https://github.com/AI-WorkDeck/aiworkdeck)** | Open source workspace for AI-assisted document work, starting with legal drafting and review, with reviewable agent edits, source-linked references, and three-way document merges. | Java | AGPL-3.0 | 2026-10-19 |
 
 ## Law-Focused LLMs & Fine-Tuned Models
 
@@ -241,7 +242,7 @@ Tools for drafting, reviewing, negotiating, and managing legal contracts.
 |------|-------------|------------|---------|------------|
 | **[OCA Contract](https://github.com/OCA/contract)** | Odoo module that manages contract creation, recurring invoicing, and lifecycle workflows with portal visibility. | Python | AGPL-3.0 | 2026-03-02 |
 | **[Accord Project - Cicero](https://github.com/accordproject/cicero-template-library)** | Open ecosystem for smart legal contracts providing a template library and execution engine, allowing drafting of natural language templates bound to data models. | | Apache-2.0 | 2026-03-02 |
-| **[Contract Analyzer](https://github.com/ahmetkumass/contract-analyzer)** | Open-source RAG-based system for extracting and analyzing key information from legal contracts using advanced language models. | Python | No license | 2026-03-02 |
+| **[Contract Analyzer](https://github.com/ahmetkumass/contract-analyzer)** | Open-source RAG-based system for extracting and analyzing key information from legal contracts using advanced language models. ⚠️ Stale (2024-10) | Python | No license | 2026-03-02 |
 | **[OpenContracts](https://github.com/Open-Source-Legal/OpenContracts)** | Enterprise-grade document analysis workspace combining LLM capabilities with annotation, collaboration, and structured data extraction. | Python | MIT | 2026-03-02 |
 | **[DocuSeal](https://github.com/docusealco/docuseal)** | Open-source DocuSign alternative for creating, filling, and signing digital documents with mobile-optimized forms and SDKs. | | AGPL-3.0 | 2026-03-02 |
 | **[Contract Lifecycle Management Dashboard](https://github.com/cyberkunju/contract-management)** | Frontend-based CLM platform built with React and TypeScript for designing reusable contract blueprints and managing workflows. | TypeScript, React | No license | 2026-03-02 |
@@ -519,6 +520,7 @@ Tools for regulatory compliance, sanctions screening, policy monitoring, and aut
 | **[r14n](https://github.com/squillo/r14n)** | Regulatory Localization Pack specification and Rust engine that resolves jurisdiction-specific compliance controls with fail-closed defaults and legal-review provenance tracking. | Rust | Other | 2026-08-31 |
 | **[FinLang](https://github.com/FinLang-Ltd/finlang)** | Deterministic, auditable financial rules engine for building explainable compliance logic in regulated environments. | Python | AGPL-3.0 | 2026-08-31 |
 | <img src="https://flagcdn.com/w20/us.png" width="20" height="15" alt="US"> **[ZwiadBrain](https://github.com/rafal-fryc/ZwiadBrain)** | Git-backed Markdown wiki tracking US federal and state legislation and enforcement actions in AI, privacy, and cybersecurity law, with every entry grounded in a cited source page. | Python | No license | 2026-09-07 |
+| **[Cavil](https://github.com/openSUSE/cavil)** | Legal review and SBOM system that scans software packages for licenses using lawyer-curated patterns and produces SPDX-format reports for open source license compliance teams. | Perl | GPL-2.0 | 2026-10-19 |
 
 
 ## eDiscovery & Litigation Support
